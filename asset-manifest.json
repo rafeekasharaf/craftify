@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/craftify/static/css/main.50d3a26c.css",
+    "main.css": "/craftify/static/css/main.6dd754d4.css",
     "main.js": "/craftify/static/js/main.3f49282c.js",
     "static/media/hero-bg-light.jpg": "/craftify/static/media/hero-bg-light.f3bd6b80a90e7b27f68d.jpg",
     "index.html": "/craftify/index.html",
-    "main.50d3a26c.css.map": "/craftify/static/css/main.50d3a26c.css.map",
+    "main.6dd754d4.css.map": "/craftify/static/css/main.6dd754d4.css.map",
     "main.3f49282c.js.map": "/craftify/static/js/main.3f49282c.js.map"
   },
   "entrypoints": [
-    "static/css/main.50d3a26c.css",
+    "static/css/main.6dd754d4.css",
     "static/js/main.3f49282c.js"
   ]
 }
