@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Handicraft Item 1",
+      "year": "2021",
+      "size": "10x10 cm",
+      "price": "$50",
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1679811673773-86764371f06e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDMwfHx8ZW58MHx8fHx8",
+        "https://images.unsplash.com/photo-1600181957633-7b1b1b1b1b1b"
+      ]
+    },
+    {
+      "name": "Handicraft Item 2",
+      "year": "2022",
+      "size": "15x15 cm",
+      "price": "$75",
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1679809488933-22e14303a3fb?w=200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1pbi1zYW1lLXNlcmllc3wyfHx8ZW58MHx8fHx8",
+        "https://images.unsplash.com/photo-1600181957633-7b1b1b1b1b1b"
+      ]
+    },
+    {
+      "name": "Handicraft Item 3",
+      "year": "2020",
+      "size": "12x12 cm",
+      "price": "$60",
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1679811674659-21be3cc25946?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D",
+        "https://images.unsplash.com/photo-1600181957633-7b1b1b1b1b1b"
+      ]
+    },
+    {
+      "name": "Handicraft Item 4",
+      "year": "2019",
+      "size": "20x20 cm",
+      "price": "$100",
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1679811671226-9181616d7570?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fHw%3D",
+        "https://images.unsplash.com/photo-1600181957633-7b1b1b1b1b1b"
+      ]
+    },
+    {
+      "name": "Handicraft Item 5",
+      "year": "2021",
+      "size": "8x8 cm",
+      "price": "$40",
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1679811673471-8677766eb6fb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fHw%3D",
+        "https://images.unsplash.com/photo-1600181957633-7b1b1b1b1b1b"
+      ]
+    }
+  
+  ]
